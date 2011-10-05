@@ -4,8 +4,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{comma}
-  s.version = "0.4.1"
+  s.name = %q{vibedeck-comma}
+  s.version = "0.4.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Marcus Crafter"]
@@ -67,4 +67,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<activesupport>, [">= 2.2.2"])
   end
 end
-

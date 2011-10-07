@@ -4,7 +4,7 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "comma"
+    gem.name = "vibedeck-comma"
     gem.summary = "Ruby Comma Seperated Values generation library"
     gem.description = "Ruby Comma Seperated Values generation library"
     gem.email = "crafterm@redartisan.com"
